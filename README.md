@@ -1,6 +1,7 @@
 # przeprogramowani-typescript
 
 [materiał filmowy](https://www.youtube.com/watch?v=nUjl2nK0FAY&list=PLfE0DpqEANZ0CQ9pCGlxGKPvYb1Sj6ybV)
+[github](https://github.com/psmyrdek/typescript-in-frameworks)
 
 # 01
 
